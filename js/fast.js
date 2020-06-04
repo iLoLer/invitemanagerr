@@ -1,0 +1,1 @@
+centili.initFancybox("#c-mobile-payment-widget2");centili.initFancybox("#c-mobile-payment-widget3");
